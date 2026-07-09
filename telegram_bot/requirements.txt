@@ -1,0 +1,6 @@
+aiogram>=3.0.0
+turkanime-cli>=9.0.0
+yt-dlp>=2024.0.0
+python-dotenv>=1.0.0
+asyncpg>=0.29.0
+cachetools>=5.3.0
